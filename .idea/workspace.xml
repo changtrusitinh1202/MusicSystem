@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b06d5fb4-6cdb-4f71-b010-8d50af8f1c14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/config/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtistService/src/main/java/com/example/artistservice/config/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArtistService/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/src/main/java/com/example/retry/RetryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/src/main/java/com/example/retry/configure/RestTemplateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/src/main/java/com/example/retry/controller/RetryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retry/src/test/java/com/example/retry/RetryApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/controller/AlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/controller/AlbumController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/repository/AlbumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/repository/AlbumRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/service/AlbumService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlbumService/src/main/java/com/example/albumservice/service/AlbumService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlbumService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AlbumService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtistService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArtistService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtistService/src/main/java/com/example/artistservice/controller/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArtistService/src/main/java/com/example/artistservice/controller/ArtistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArtistService/src/test/java/com/example/artistservice/ArtistServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaylistService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PlaylistService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SongService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SongService/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b06d5fb4-6cdb-4f71-b010-8d50af8f1c14" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716291111898</updated>
       <workItem from="1716291112991" duration="19689000" />
-      <workItem from="1716355783040" duration="2610000" />
+      <workItem from="1716355783040" duration="3200000" />
     </task>
     <servers />
   </component>
