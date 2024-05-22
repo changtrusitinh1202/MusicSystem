@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AlbumService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArtistService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JWT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlaylistService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Retry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SongService" vcs="Git" />
+  </component>
+</project>
