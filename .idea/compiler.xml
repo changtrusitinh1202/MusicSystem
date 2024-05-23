@@ -10,6 +10,7 @@
         <module name="SingerService" />
         <module name="JWT" />
         <module name="Gateway" />
+        <module name="Musicanservices" />
         <module name="Retry" />
         <module name="SongService" />
         <module name="ArtistService" />
@@ -27,7 +28,8 @@
       <module name="AlbumService" options="-parameters" />
       <module name="ArtistService" options="-parameters" />
       <module name="Gateway" options="-parameters" />
-      <module name="JWT" options="" />
+      <module name="JWT" options="-parameters" />
+      <module name="Musicanservices" options="-parameters" />
       <module name="PlaylistService" options="-parameters" />
       <module name="Retry" options="-parameters" />
       <module name="SongService" options="-parameters" />

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
@@ -19,6 +20,7 @@
         <option value="$PROJECT_DIR$/ArtistService/pom.xml" />
         <option value="$PROJECT_DIR$/AlbumService/pom.xml" />
         <option value="$PROJECT_DIR$/PlaylistService/pom.xml" />
+        <option value="$PROJECT_DIR$/Musicanservices/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
