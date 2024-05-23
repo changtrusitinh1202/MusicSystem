@@ -32,6 +32,7 @@
       <module name="Musicanservices" options="-parameters" />
       <module name="PlaylistService" options="-parameters" />
       <module name="Retry" options="-parameters" />
+      <module name="SingerService" options="-parameters" />
       <module name="SongService" options="-parameters" />
       <module name="UserService" options="-parameters" />
     </option>

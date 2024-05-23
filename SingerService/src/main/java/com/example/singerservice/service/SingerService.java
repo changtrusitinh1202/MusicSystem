@@ -7,5 +7,6 @@ import org.springframework.stereotype.Service;
 @Service
 public interface SingerService {
     Singer findById(Long id);
+    Singer addSinger(Singer singer);
 
 }

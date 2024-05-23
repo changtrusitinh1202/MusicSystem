@@ -16,4 +16,9 @@ public class SingerImplement implements SingerService{
     public Singer findById(Long id) {
         return singerRepostory.findById(id).get();
     }
+
+    @Override
+    public Singer addSinger(Singer singer) {
+        return singerRepostory.save(singer);
+    }
 }
