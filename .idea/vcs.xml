@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/ArtistService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JWT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicanService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PlaylistService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SongService" vcs="Git" />
   </component>
