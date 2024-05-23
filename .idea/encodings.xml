@@ -7,10 +7,10 @@
     <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JWT/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JWT/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/PlaylistService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Retry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SingerService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SingerService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SongService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
   </component>
 </project>
