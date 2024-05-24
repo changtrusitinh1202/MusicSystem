@@ -2,10 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AlbumService" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ArtistService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JWT" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MusicanService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Musicanservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserService" vcs="Git" />
   </component>
 </project>
